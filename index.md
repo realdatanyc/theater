@@ -3,6 +3,8 @@
 ## Broadway Campus
 [Spolight on Broadway (MAP)](https://www.spotlightonbroadway.com/)
 
+## Broadway Data
+[NYC School of Data 2022 presentation by Yakov Bressler](https://youtu.be/MWyUlM7yGDY?t=668)
 
 Resources for legitimate and live performance data
 
